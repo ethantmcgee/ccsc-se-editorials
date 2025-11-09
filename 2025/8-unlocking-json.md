@@ -2,7 +2,7 @@
 
 JSON is a data transfer format that is composed of dictionaries (maps or objects), lists, strings, integers, and booleans.  These can come in any combination.  For example, all of the following are valid JSON.
 
-```
+```json
 0
 true
 "hello"
