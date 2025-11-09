@@ -1,4 +1,4 @@
-# Problems
+# 2025 Problems
 
 - [1. Diabolical](./1-diabolical.md)
 - [2. Gabe's Greedy Pie Gambit](./2-gabes-greedy-pie-gambit.md)
