@@ -58,7 +58,7 @@ public record Line(Coordinate start, Coordinate end) {}
 
 From here, we can finally make a boat.
 
-```
+```java
 private static final Integer PRECISION = 5;
 private static final BigDecimal ANGLE_ADJUST = new BigDecimal(270);
 private static final BigDecimal SIMULATION_MINUTES = new BigDecimal(120);
