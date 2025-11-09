@@ -4,7 +4,7 @@ We can model a hand of cards in the well-known card game, Garblanga, as a graph,
 
 # Solution
 
-```python3
+```python
 powers = {
     "2": 2,
     "3": 3,
